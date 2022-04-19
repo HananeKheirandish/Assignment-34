@@ -7,8 +7,8 @@
 
   ![Shot 0017](https://user-images.githubusercontent.com/76804160/164118560-985d8c3a-dd4f-4f09-a293-4f681f43d31d.png)
 
-## KNN_Weight_Heigh:
-Work with weight and heigh data in KNN.
+## KNN_Weight_Height:
+Work with weight and height data in KNN.
 
 ## KNN_OCR:
 OCR of Hand-written Digits in opencv website
